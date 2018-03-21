@@ -1,0 +1,3781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulbasaur</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>001</string>
+		<key>name</key>
+		<string>Bulbasaur</string>
+		<key>description</key>
+		<string>A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Overgrow</string>
+		<key>species</key>
+		<string>Seed Pokémon</string>
+		<key>height</key>
+		<string>2&apos;4&quot; (0.71m)</string>
+		<key>weight</key>
+		<string>15.2 lbs (6.9kg)</string>
+		<key>icon</key>
+		<string>bulbasaurIcon</string>
+		<key>image</key>
+		<string>bulbasaur</string>
+	</dict>
+	<key>ivysaur</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>002</string>
+		<key>name</key>
+		<string>Ivysaur</string>
+		<key>description</key>
+		<string>There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Overgrow</string>
+		<key>species</key>
+		<string>Seed Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>28.7 lbs (13.0 kg)</string>
+		<key>icon</key>
+		<string>ivysaurIcon</string>
+		<key>image</key>
+		<string>ivysaur</string>
+	</dict>
+	<key>venusaur</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>003</string>
+		<key>name</key>
+		<string>Venusaur</string>
+		<key>description</key>
+		<string>By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Overgrow</string>
+		<key>species</key>
+		<string>Seed Pokémon</string>
+		<key>height</key>
+		<string>6&apos;7&quot; (2.01m)</string>
+		<key>weight</key>
+		<string>220.5 lbs (100.0 kg)</string>
+		<key>icon</key>
+		<string>venusaurIcon</string>
+		<key>image</key>
+		<string>venusaur</string>
+	</dict>
+	<key>charmander</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>004</string>
+		<key>name</key>
+		<string>Charmander</string>
+		<key>description</key>
+		<string>The flame on its tail indicates Charmander’s life force. If it is healthy, the flame burns brightly.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Blaze</string>
+		<key>species</key>
+		<string>Lizard Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>18.7 lbs (8.5 kg)</string>
+		<key>icon</key>
+		<string>charmanderIcon</string>
+		<key>image</key>
+		<string>charmander</string>
+	</dict>
+	<key>charmeleon</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>005</string>
+		<key>name</key>
+		<string>Charmeleon</string>
+		<key>description</key>
+		<string>It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Blaze</string>
+		<key>species</key>
+		<string>Flame Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>41.9 lbs (19.0 kg)</string>
+		<key>icon</key>
+		<string>charmeleonIcon</string>
+		<key>image</key>
+		<string>charmeleon</string>
+	</dict>
+	<key>charizard</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>006</string>
+		<key>name</key>
+		<string>Charizard</string>
+		<key>description</key>
+		<string>When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Blaze</string>
+		<key>species</key>
+		<string>Flame Pokémon</string>
+		<key>height</key>
+		<string>5&apos;7&quot; (1.70m)</string>
+		<key>weight</key>
+		<string>199.5 lbs (90.5 kg)</string>
+		<key>icon</key>
+		<string>charizardIcon</string>
+		<key>image</key>
+		<string>charizard</string>
+	</dict>
+	<key>squirtle</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>007</string>
+		<key>name</key>
+		<string>Squirtle</string>
+		<key>description</key>
+		<string>It shelters itself in its shell, then strikes back with spouts of water at every opportunity.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Torrent</string>
+		<key>species</key>
+		<string>Tiny Turtle Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>19.8 lbs (9.0 kg)</string>
+		<key>icon</key>
+		<string>squirtleIcon</string>
+		<key>image</key>
+		<string>squirtle</string>
+	</dict>
+	<key>wartortle</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>008</string>
+		<key>name</key>
+		<string>Wartortle</string>
+		<key>description</key>
+		<string>When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Torrent</string>
+		<key>species</key>
+		<string>Turtle Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>49.6 lbs (22.5 kg)</string>
+		<key>icon</key>
+		<string>wartortleIcon</string>
+		<key>image</key>
+		<string>wartortle</string>
+	</dict>
+	<key>blastoise</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>009</string>
+		<key>name</key>
+		<string>Blastoise</string>
+		<key>description</key>
+		<string>It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Torrent</string>
+		<key>species</key>
+		<string>Shellfish Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>188.5 lbs (85.5 kg)</string>
+		<key>icon</key>
+		<string>blastoiseIcon</string>
+		<key>image</key>
+		<string>blastoise</string>
+	</dict>
+	<key>caterpie</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>010</string>
+		<key>name</key>
+		<string>Caterpie</string>
+		<key>description</key>
+		<string>For protection, it releases a horrible stench from the antennae on its head to drive away enemies.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Shield Dust</string>
+		<key>species</key>
+		<string>Worm Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>6.4 lbs (2.9 kg)</string>
+		<key>icon</key>
+		<string>caterpieIcon</string>
+		<key>image</key>
+		<string>caterpie</string>
+	</dict>
+	<key>metapod</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>011</string>
+		<key>name</key>
+		<string>Metapod</string>
+		<key>description</key>
+		<string>A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Shed Skin</string>
+		<key>species</key>
+		<string>Cocoon Pokémon</string>
+		<key>height</key>
+		<string>2&apos;4&quot; (0.71m)</string>
+		<key>weight</key>
+		<string>21.8 lbs (9.9 kg)</string>
+		<key>icon</key>
+		<string>metapodIcon</string>
+		<key>image</key>
+		<string>metapod</string>
+	</dict>
+	<key>butterfree</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>012</string>
+		<key>name</key>
+		<string>Butterfree</string>
+		<key>description</key>
+		<string>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Compound Eyes</string>
+		<key>species</key>
+		<string>Butterfly Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>70.5 lbs (32.0 kg)</string>
+		<key>icon</key>
+		<string>butterfreeIcon</string>
+		<key>image</key>
+		<string>butterfree</string>
+	</dict>
+	<key>weedle</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>013</string>
+		<key>name</key>
+		<string>Weedle</string>
+		<key>description</key>
+		<string>Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Shield Dust</string>
+		<key>species</key>
+		<string>Hairy Bug Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>7.1 lbs (3.2 kg)</string>
+		<key>icon</key>
+		<string>weedleIcon</string>
+		<key>image</key>
+		<string>weedle</string>
+	</dict>
+	<key>kakuna</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>014</string>
+		<key>name</key>
+		<string>Kakuna</string>
+		<key>description</key>
+		<string>Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Shed Skin</string>
+		<key>species</key>
+		<string>Cocoon Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>22 lbs (10.0 kg)</string>
+		<key>icon</key>
+		<string>kakunaIcon</string>
+		<key>image</key>
+		<string>kakuna</string>
+	</dict>
+	<key>beedrill</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>015</string>
+		<key>name</key>
+		<string>Beedrill</string>
+		<key>description</key>
+		<string>It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Swarm</string>
+		<key>species</key>
+		<string>Poison Bee Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>65 lbs (29.5 kg)</string>
+		<key>icon</key>
+		<string>beedrillIcon</string>
+		<key>image</key>
+		<string>beedrill</string>
+	</dict>
+	<key>pidgey</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>016</string>
+		<key>name</key>
+		<string>Pidgey</string>
+		<key>description</key>
+		<string>A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Keen Eye, Tangled Feet</string>
+		<key>species</key>
+		<string>Tiny Bird Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>4 lbs (1.8 kg)</string>
+		<key>icon</key>
+		<string>pidgeyIcon</string>
+		<key>image</key>
+		<string>pidgey</string>
+	</dict>
+	<key>pidgeotto</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>017</string>
+		<key>name</key>
+		<string>Pidgeotto</string>
+		<key>description</key>
+		<string>The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Keen Eye, Tangled Feet</string>
+		<key>species</key>
+		<string>Bird Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>pidgeottoIcon</string>
+		<key>image</key>
+		<string>pidgeotto</string>
+	</dict>
+	<key>pidgeot</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>018</string>
+		<key>name</key>
+		<string>Pidgeot</string>
+		<key>description</key>
+		<string>When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Keen Eye, Tangled Feet</string>
+		<key>species</key>
+		<string>Bird Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>87.1 lbs (39.5 kg)</string>
+		<key>icon</key>
+		<string>pidgeotIcon</string>
+		<key>image</key>
+		<string>pidgeot</string>
+	</dict>
+	<key>rattata</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>019</string>
+		<key>name</key>
+		<string>Rattata</string>
+		<key>description</key>
+		<string>Living wherever there is food available, it ceaselessly scavenges for edibles the entire day.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Guts, Run Away</string>
+		<key>species</key>
+		<string>Mouse Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>7.7 lbs (3.5 kg)</string>
+		<key>icon</key>
+		<string>rattataIcon</string>
+		<key>image</key>
+		<string>rattata</string>
+	</dict>
+	<key>raticate</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>020</string>
+		<key>name</key>
+		<string>Raticate</string>
+		<key>description</key>
+		<string>It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Guts, Run Away</string>
+		<key>species</key>
+		<string>Mouse Pokémon</string>
+		<key>height</key>
+		<string>2&apos;4&quot; (0.71m)</string>
+		<key>weight</key>
+		<string>40.8 lbs (18.5 kg)</string>
+		<key>icon</key>
+		<string>raticateIcon</string>
+		<key>image</key>
+		<string>raticate</string>
+	</dict>
+	<key>spearow</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>021</string>
+		<key>name</key>
+		<string>Spearow</string>
+		<key>description</key>
+		<string>Very protective of its territory, it flaps its short wings busily to dart around at high speed.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Keen Eye</string>
+		<key>species</key>
+		<string>Tiny Bird Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>4.4 lbs (2.0 kg)</string>
+		<key>icon</key>
+		<string>spearowIcon</string>
+		<key>image</key>
+		<string>spearow</string>
+	</dict>
+	<key>fearow</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>022</string>
+		<key>name</key>
+		<string>Fearow</string>
+		<key>description</key>
+		<string>With its huge and magnificent wings, it can keep aloft without ever having to land for rest.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Keen Eye</string>
+		<key>species</key>
+		<string>Beak Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>83.8 lbs (38.0 kg)</string>
+		<key>icon</key>
+		<string>fearowIcon</string>
+		<key>image</key>
+		<string>fearow</string>
+	</dict>
+	<key>ekans</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>023</string>
+		<key>name</key>
+		<string>Ekans</string>
+		<key>description</key>
+		<string>The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Intimidate, Shed Skin</string>
+		<key>species</key>
+		<string>Snake Pokémon</string>
+		<key>height</key>
+		<string>6&apos;7&quot; (2.01m)</string>
+		<key>weight</key>
+		<string>15.2 lbs (6.9 kg)</string>
+		<key>icon</key>
+		<string>ekansIcon</string>
+		<key>image</key>
+		<string>ekans</string>
+	</dict>
+	<key>arbok</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>024</string>
+		<key>name</key>
+		<string>Arbok</string>
+		<key>description</key>
+		<string>The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Intimidate, Shed Skin</string>
+		<key>species</key>
+		<string>Cobra Pokémon</string>
+		<key>height</key>
+		<string>11&apos;6&quot; (3.51m)</string>
+		<key>weight</key>
+		<string>143.3 lbs (65.0 kg)</string>
+		<key>icon</key>
+		<string>arbokIcon</string>
+		<key>image</key>
+		<string>arbok</string>
+	</dict>
+	<key>pikachu</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>025</string>
+		<key>name</key>
+		<string>Pikachu</string>
+		<key>description</key>
+		<string>It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Static</string>
+		<key>species</key>
+		<string>Mouse Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>13.2 lbs (6.0 kg)</string>
+		<key>icon</key>
+		<string>pikachuIcon</string>
+		<key>image</key>
+		<string>pikachu</string>
+	</dict>
+	<key>raichu</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>026</string>
+		<key>name</key>
+		<string>Raichu</string>
+		<key>description</key>
+		<string>When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Static</string>
+		<key>species</key>
+		<string>Mouse Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>raichuIcon</string>
+		<key>image</key>
+		<string>raichu</string>
+	</dict>
+	<key>sandshrew</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>027</string>
+		<key>name</key>
+		<string>Sandshrew</string>
+		<key>description</key>
+		<string>It burrows and lives underground. If threatened, it curls itself up into a ball for protection.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Sand Veil</string>
+		<key>species</key>
+		<string>Mouse Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>26.5 lbs (12.0 kg)</string>
+		<key>icon</key>
+		<string>sandshrewIcon</string>
+		<key>image</key>
+		<string>sandshrew</string>
+	</dict>
+	<key>sandslash</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>028</string>
+		<key>name</key>
+		<string>Sandslash</string>
+		<key>description</key>
+		<string>If it digs at an incredible pace, it may snap off its spikes and claws. They grow back in a day.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Sand Veil</string>
+		<key>species</key>
+		<string>Mouse Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>65 lbs (29.5 kg)</string>
+		<key>icon</key>
+		<string>sandslashIcon</string>
+		<key>image</key>
+		<string>sandslash</string>
+	</dict>
+	<key>nidoran♀</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>029</string>
+		<key>name</key>
+		<string>Nidoran♀</string>
+		<key>description</key>
+		<string>Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Poison Point, Rivalry</string>
+		<key>species</key>
+		<string>Poison Pin Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>15.4 lbs (7.0 kg)</string>
+		<key>icon</key>
+		<string>nidoran♀Icon</string>
+		<key>image</key>
+		<string>nidoran♀</string>
+	</dict>
+	<key>nidorina</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>030</string>
+		<key>name</key>
+		<string>Nidorina</string>
+		<key>description</key>
+		<string>The female has a gentle temperament. It emits ultrasonic cries that have the power to befuddle foes.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Poison Point, Rivalry</string>
+		<key>species</key>
+		<string>Poison Pin Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>44.1 lbs (20.0 kg)</string>
+		<key>icon</key>
+		<string>nidorinaIcon</string>
+		<key>image</key>
+		<string>nidorina</string>
+	</dict>
+	<key>nidoqueen</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>031</string>
+		<key>name</key>
+		<string>Nidoqueen</string>
+		<key>description</key>
+		<string>It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string>Ground</string>
+		<key>ability</key>
+		<string>Poison Point, Rivalry</string>
+		<key>species</key>
+		<string>Drill Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>132.3 lbs (60.0 kg)</string>
+		<key>icon</key>
+		<string>nidoqueenIcon</string>
+		<key>image</key>
+		<string>nidoqueen</string>
+	</dict>
+	<key>nidoran♂</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>032</string>
+		<key>name</key>
+		<string>Nidoran♂</string>
+		<key>description</key>
+		<string>It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Poison Point, Rivalry</string>
+		<key>species</key>
+		<string>Poison Pin Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>19.8 lbs (9.0 kg)</string>
+		<key>icon</key>
+		<string>nidoran♂Icon</string>
+		<key>image</key>
+		<string>nidoran♂</string>
+	</dict>
+	<key>nidorino</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>033</string>
+		<key>name</key>
+		<string>Nidorino</string>
+		<key>description</key>
+		<string>It raises its big ears to check its surroundings. If it senses anything, it attacks immediately.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Poison Point, Rivalry</string>
+		<key>species</key>
+		<string>Poison Pin Pokémon</string>
+		<key>height</key>
+		<string>2&apos;11&quot; (0.89m)</string>
+		<key>weight</key>
+		<string>43 lbs (19.5 kg)</string>
+		<key>icon</key>
+		<string>nidorinoIcon</string>
+		<key>image</key>
+		<string>nidorino</string>
+	</dict>
+	<key>nidoking</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>034</string>
+		<key>name</key>
+		<string>Nidoking</string>
+		<key>description</key>
+		<string>It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string>Ground</string>
+		<key>ability</key>
+		<string>Poison Point, Rivalry</string>
+		<key>species</key>
+		<string>Drill Pokémon</string>
+		<key>height</key>
+		<string>4&apos;7&quot; (1.40m)</string>
+		<key>weight</key>
+		<string>136.7 lbs (62.0 kg)</string>
+		<key>icon</key>
+		<string>nidokingIcon</string>
+		<key>image</key>
+		<string>nidoking</string>
+	</dict>
+	<key>clefairy</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>035</string>
+		<key>name</key>
+		<string>Clefairy</string>
+		<key>description</key>
+		<string>It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.</string>
+		<key>type</key>
+		<string>Fairy</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Cute Charm, Magic Guard</string>
+		<key>species</key>
+		<string>Fairy Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>16.5 lbs (7.5 kg)</string>
+		<key>icon</key>
+		<string>clefairyIcon</string>
+		<key>image</key>
+		<string>clefairy</string>
+	</dict>
+	<key>clefable</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>036</string>
+		<key>name</key>
+		<string>Clefable</string>
+		<key>description</key>
+		<string>Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.</string>
+		<key>type</key>
+		<string>Fairy</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Cute Charm, Magic Guard</string>
+		<key>species</key>
+		<string>Fairy Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>88.2 lbs (40.0 kg)</string>
+		<key>icon</key>
+		<string>clefableIcon</string>
+		<key>image</key>
+		<string>clefable</string>
+	</dict>
+	<key>vulpix</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>037</string>
+		<key>name</key>
+		<string>Vulpix</string>
+		<key>description</key>
+		<string>When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire</string>
+		<key>species</key>
+		<string>Fox Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>21.8 lbs (9.9 kg)</string>
+		<key>icon</key>
+		<string>vulpixIcon</string>
+		<key>image</key>
+		<string>vulpix</string>
+	</dict>
+	<key>ninetales</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>038</string>
+		<key>name</key>
+		<string>Ninetales</string>
+		<key>description</key>
+		<string>It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire</string>
+		<key>species</key>
+		<string>Fox Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>43.9 lbs (19.9 kg)</string>
+		<key>icon</key>
+		<string>ninetalesIcon</string>
+		<key>image</key>
+		<string>ninetales</string>
+	</dict>
+	<key>jigglypuff</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>039</string>
+		<key>name</key>
+		<string>Jigglypuff</string>
+		<key>description</key>
+		<string>It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Fairy</string>
+		<key>ability</key>
+		<string>Competitive, Cute Charm</string>
+		<key>species</key>
+		<string>Balloon Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>12.1 lbs (5.5 kg)</string>
+		<key>icon</key>
+		<string>jigglypuffIcon</string>
+		<key>image</key>
+		<string>jigglypuff</string>
+	</dict>
+	<key>wigglytuff</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>040</string>
+		<key>name</key>
+		<string>Wigglytuff</string>
+		<key>description</key>
+		<string>Their fur feels so good that if two of them snuggle together, they won’t want to be separated.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Fairy</string>
+		<key>ability</key>
+		<string>Competitive, Cute Charm</string>
+		<key>species</key>
+		<string>Balloon Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>26.5 lbs (12.0 kg)</string>
+		<key>icon</key>
+		<string>wigglytuffIcon</string>
+		<key>image</key>
+		<string>wigglytuff</string>
+	</dict>
+	<key>zubat</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>0041</string>
+		<key>name</key>
+		<string>Zubat</string>
+		<key>description</key>
+		<string>Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Inner Focus</string>
+		<key>species</key>
+		<string>Bat Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>16.5 lbs (7.5 kg)</string>
+		<key>icon</key>
+		<string>zubatIcon</string>
+		<key>image</key>
+		<string>zubat</string>
+	</dict>
+	<key>golbat</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>042</string>
+		<key>name</key>
+		<string>Golbat</string>
+		<key>description</key>
+		<string>Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Inner Focus</string>
+		<key>species</key>
+		<string>Bat Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>121.3 lbs (55.0 kg)</string>
+		<key>icon</key>
+		<string>golbatIcon</string>
+		<key>image</key>
+		<string>golbat</string>
+	</dict>
+	<key>oddish</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>043</string>
+		<key>name</key>
+		<string>Oddish</string>
+		<key>description</key>
+		<string>During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Weed Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>11.9 lbs (5.4 kg)</string>
+		<key>icon</key>
+		<string>oddishIcon</string>
+		<key>image</key>
+		<string>oddish</string>
+	</dict>
+	<key>gloom</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>044</string>
+		<key>name</key>
+		<string>Gloom</string>
+		<key>description</key>
+		<string>Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Weed Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>19 lbs (8.6 kg)</string>
+		<key>icon</key>
+		<string>gloomIcon</string>
+		<key>image</key>
+		<string>gloom</string>
+	</dict>
+	<key>vileplume</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>045</string>
+		<key>name</key>
+		<string>Vileplume</string>
+		<key>description</key>
+		<string>The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Folower Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>41 lbs (18.6 kg)</string>
+		<key>icon</key>
+		<string>vileplumeIcon</string>
+		<key>image</key>
+		<string>vileplume</string>
+	</dict>
+	<key>paras</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>046</string>
+		<key>name</key>
+		<string>Paras</string>
+		<key>description</key>
+		<string>Growing out of the bug&apos;s back are mushrooms called tochukaso. The mushromms grow with the bug host.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Grass</string>
+		<key>ability</key>
+		<string>Dry Skin, Effect Spore</string>
+		<key>species</key>
+		<string>Mushroom Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>11.9 lbs (5.4 kg)</string>
+		<key>icon</key>
+		<string>parasIcon</string>
+		<key>image</key>
+		<string>paras</string>
+	</dict>
+	<key>parasect</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>047</string>
+		<key>name</key>
+		<string>Parasect</string>
+		<key>description</key>
+		<string>A Mushroom grown larger than the host&apos;s body controls Parasect. It scatters poisonous spores.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Grass</string>
+		<key>ability</key>
+		<string>Dry Skin, Effect Spore</string>
+		<key>species</key>
+		<string>Mushroom Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>65 lbs (29.5 kg)</string>
+		<key>icon</key>
+		<string>parasectIcon</string>
+		<key>image</key>
+		<string>parasect</string>
+	</dict>
+	<key>venonat</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>048</string>
+		<key>name</key>
+		<string>Venonat</string>
+		<key>description</key>
+		<string>Its big eyes actually clusters of tiny eyes. At night, its kind is drawn by light.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Compound Eyes, Tinted Lens</string>
+		<key>species</key>
+		<string>Insect Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>venonatIcon</string>
+		<key>image</key>
+		<string>venonat</string>
+	</dict>
+	<key>venomoth</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>049</string>
+		<key>name</key>
+		<string>Venomoth</string>
+		<key>description</key>
+		<string>The scales it scatters will paralyze anyone who touches them, making tha person unable to stand.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Shield Dust, Tinted Lens</string>
+		<key>species</key>
+		<string>Poison Moth Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.5m)</string>
+		<key>weight</key>
+		<string>27.6 lbs (12.5 kg)</string>
+		<key>icon</key>
+		<string>venomothIcon</string>
+		<key>image</key>
+		<string>venomoth</string>
+	</dict>
+	<key>diglett</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>050</string>
+		<key>name</key>
+		<string>Diglett</string>
+		<key>description</key>
+		<string>Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Arena Trap, Sand Veil</string>
+		<key>species</key>
+		<string>Mole Pokémon</string>
+		<key>height</key>
+		<string>0&apos;8&quot; (0.20m)</string>
+		<key>weight</key>
+		<string>1.8 lbs (0.8 kg)</string>
+		<key>icon</key>
+		<string>diglettIcon</string>
+		<key>image</key>
+		<string>diglett</string>
+	</dict>
+	<key>dugtrio</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>051</string>
+		<key>name</key>
+		<string>Dugtrio</string>
+		<key>description</key>
+		<string>In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Arena Trap, Sand Veil</string>
+		<key>species</key>
+		<string>Mole Pokémon</string>
+		<key>height</key>
+		<string>2&apos;4&quot; (0.71m)</string>
+		<key>weight</key>
+		<string>73.4 lbs (33.3 kg)</string>
+		<key>icon</key>
+		<string>dugtrioIcon</string>
+		<key>image</key>
+		<string>dugtrio</string>
+	</dict>
+	<key>meowth</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>052</string>
+		<key>name</key>
+		<string>Meowth</string>
+		<key>description</key>
+		<string>It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Pickup, Technician</string>
+		<key>species</key>
+		<string>Scratch Cat Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>9.3 lbs (4.2 kg)</string>
+		<key>icon</key>
+		<string>meowthIcon</string>
+		<key>image</key>
+		<string>meowth</string>
+	</dict>
+	<key>persian</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>053</string>
+		<key>name</key>
+		<string>Persian</string>
+		<key>description</key>
+		<string>Although its fur has many admirers, it is tough to raise as a pet because of its flicke meaness.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Limber, Technician</string>
+		<key>species</key>
+		<string>Classy Cat Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>70.5 lbs (32.0 kg)</string>
+		<key>icon</key>
+		<string>persianIcon</string>
+		<key>image</key>
+		<string>persian</string>
+	</dict>
+	<key>psyduck</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>054</string>
+		<key>name</key>
+		<string>Psyduck</string>
+		<key>description</key>
+		<string>It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Cloud Nine, Damp</string>
+		<key>species</key>
+		<string>Duck Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>43.2 lbs (0.79 kg)</string>
+		<key>icon</key>
+		<string>psyduckIcon</string>
+		<key>image</key>
+		<string>psyduck</string>
+	</dict>
+	<key>golduck</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>055</string>
+		<key>name</key>
+		<string>Golduck</string>
+		<key>description</key>
+		<string>It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Cloud Nine, Damp</string>
+		<key>species</key>
+		<string>Duck Pokémon</string>
+		<key>height</key>
+		<string>5&apos;7&quot; (1.70m)</string>
+		<key>weight</key>
+		<string>168.9 lbs (76.6 kg)</string>
+		<key>icon</key>
+		<string>golduckIcon</string>
+		<key>image</key>
+		<string>golduck</string>
+	</dict>
+	<key>mankey</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>056</string>
+		<key>name</key>
+		<string>Mankey</string>
+		<key>description</key>
+		<string>It’s unsafe to approach if it gets violently enraged for no reason and can’t distinguish friends from foes.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Anger Point, Vital Spirit</string>
+		<key>species</key>
+		<string>Pig Monkey Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>61.7 lbs (28.0 kg)</string>
+		<key>icon</key>
+		<string>mankeyIcon</string>
+		<key>image</key>
+		<string>mankey</string>
+	</dict>
+	<key>primeape</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>057</string>
+		<key>name</key>
+		<string>Primeape</string>
+		<key>description</key>
+		<string>It stops being angry only when nobody else is around. To view this moment is very difficult.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Anger Point, Vital Spirit</string>
+		<key>species</key>
+		<string>Pig Monkey Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>70.5 lbs (32.0 kg)</string>
+		<key>icon</key>
+		<string>primeapeIcon</string>
+		<key>image</key>
+		<string>primeape</string>
+	</dict>
+	<key>growlithe</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>057</string>
+		<key>name</key>
+		<string>Growlithe</string>
+		<key>description</key>
+		<string>Very friendly and faithful to people. It will try to repel enemies by barking and biting.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire, Intimidate</string>
+		<key>species</key>
+		<string>Puppy Pokémon</string>
+		<key>height</key>
+		<string>2&apos;4&quot; (0.71m)</string>
+		<key>weight</key>
+		<string>41.9 lbs (19.0 kg)</string>
+		<key>icon</key>
+		<string>growlitheIcon</string>
+		<key>image</key>
+		<string>growthlithe</string>
+	</dict>
+	<key>arcanine</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>059</string>
+		<key>name</key>
+		<string>Arcanine</string>
+		<key>description</key>
+		<string>Very friendly and faithful to people. It will try to repel enemies by barking and biting.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire, Intimidate</string>
+		<key>species</key>
+		<string>Legendary Pokémon</string>
+		<key>height</key>
+		<string>6&apos;3&quot; (1.91m)</string>
+		<key>weight</key>
+		<string>341.7 lbs (155.0 kg)</string>
+		<key>icon</key>
+		<string>arcanineIcon</string>
+		<key>image</key>
+		<string>arcanine</string>
+	</dict>
+	<key>poliwag</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>060</string>
+		<key>name</key>
+		<string>Poliwag</string>
+		<key>description</key>
+		<string>Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Damp, Water Absorb</string>
+		<key>species</key>
+		<string>Tadpole Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>27.3 lbs (12.4 kg)</string>
+		<key>icon</key>
+		<string>poliwagIcon</string>
+		<key>image</key>
+		<string>poliwag</string>
+	</dict>
+	<key>poliwhirl</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>061</string>
+		<key>name</key>
+		<string>Poliwhirl</string>
+		<key>description</key>
+		<string>It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Damp, Water Absorb</string>
+		<key>species</key>
+		<string>Tadpole Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>44.1 lbs (20.0 kg)</string>
+		<key>icon</key>
+		<string>poliwhirlIcon</string>
+		<key>image</key>
+		<string>poliwhirl</string>
+	</dict>
+	<key>poliwrath</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>062</string>
+		<key>name</key>
+		<string>Poliwrath</string>
+		<key>description</key>
+		<string>With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Fighting</string>
+		<key>ability</key>
+		<string>Damp, Water Absorb</string>
+		<key>species</key>
+		<string>Tadpole Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>119 lbs (54.0 kg)</string>
+		<key>icon</key>
+		<string>poliwrathIcon</string>
+		<key>image</key>
+		<string>poliwrath</string>
+	</dict>
+	<key>abra</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>063</string>
+		<key>name</key>
+		<string>Abra</string>
+		<key>description</key>
+		<string>It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Inner Focus, Synchronize</string>
+		<key>species</key>
+		<string>Psi Pokémon</string>
+		<key>height</key>
+		<string>2&apos;11&quot; (0.89m)</string>
+		<key>weight</key>
+		<string>43 lbs (19.5 kg)</string>
+		<key>icon</key>
+		<string>abraIcon</string>
+		<key>image</key>
+		<string>abra</string>
+	</dict>
+	<key>kadabra</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>064</string>
+		<key>name</key>
+		<string>Kadabra</string>
+		<key>description</key>
+		<string>When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Inner Focus, Synchronize</string>
+		<key>species</key>
+		<string>Psi Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>124.6 lbs (56.5 kg)</string>
+		<key>icon</key>
+		<string>kadabraIcon</string>
+		<key>image</key>
+		<string>kadabra</string>
+	</dict>
+	<key>alakazam</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>065</string>
+		<key>name</key>
+		<string>Alakazam</string>
+		<key>description</key>
+		<string>Its brain cells multiply continually until it dies. As a result, it remembers everything.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Inner Focus, Synchronize</string>
+		<key>species</key>
+		<string>Psi Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>105.8 lbs (48.0 kg)</string>
+		<key>icon</key>
+		<string>alakazamIcon</string>
+		<key>image</key>
+		<string>alakazam</string>
+	</dict>
+	<key>machop</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>066</string>
+		<key>name</key>
+		<string>Machop</string>
+		<key>description</key>
+		<string>It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Guts, No Guard</string>
+		<key>species</key>
+		<string>Superpower Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>43 lbs (19.5 kg)</string>
+		<key>icon</key>
+		<string>machopIcon</string>
+		<key>image</key>
+		<string>machop</string>
+	</dict>
+	<key>machoke</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>067</string>
+		<key>name</key>
+		<string>Machoke</string>
+		<key>description</key>
+		<string>Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Guts, No Guard</string>
+		<key>species</key>
+		<string>Superpower Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>155.4 lbs (70.5 kg)</string>
+		<key>icon</key>
+		<string>machokeIcon</string>
+		<key>image</key>
+		<string>machoke</string>
+	</dict>
+	<key>machamp</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>068</string>
+		<key>name</key>
+		<string>Machamp</string>
+		<key>description</key>
+		<string>Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Guts, No Guard</string>
+		<key>species</key>
+		<string>Superpower Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>286.6 lbs (130.0 kg)</string>
+		<key>icon</key>
+		<string>machampIcon</string>
+		<key>image</key>
+		<string>machamp</string>
+	</dict>
+	<key>bellsprout</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>069</string>
+		<key>name</key>
+		<string>Bellsprout</string>
+		<key>description</key>
+		<string>Even though its body is extremely skinny, it is blindingly fast when catching its prey.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Flower Pokémon</string>
+		<key>height</key>
+		<string>2&apos;4&quot; (0.71m)</string>
+		<key>weight</key>
+		<string>8.8 lbs (4.0 kg)</string>
+		<key>icon</key>
+		<string>bellsproutIcon</string>
+		<key>image</key>
+		<string>bellsprout</string>
+	</dict>
+	<key>weepinbell</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>070</string>
+		<key>name</key>
+		<string>Weepinbell</string>
+		<key>description</key>
+		<string>The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Flycatcher Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>14.1 lbs (6.4 kg)</string>
+		<key>icon</key>
+		<string>weepinbellIcon</string>
+		<key>image</key>
+		<string>weepinbell</string>
+	</dict>
+	<key>victreebel</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>071</string>
+		<key>name</key>
+		<string>Victreebel</string>
+		<key>description</key>
+		<string>Said to live in huge colonies deep in jungles, although no one has ever returned from there.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Flycatcher Pokémon</string>
+		<key>height</key>
+		<string>5&apos;7&quot; (1.70m)</string>
+		<key>weight</key>
+		<string>34.2 lbs (15.5 kg)</string>
+		<key>icon</key>
+		<string>victreebelIcon</string>
+		<key>image</key>
+		<string>victreebel</string>
+	</dict>
+	<key>tentacool</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>072</string>
+		<key>name</key>
+		<string>Tentacool</string>
+		<key>description</key>
+		<string>Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Clear Body, Liquid Ooze</string>
+		<key>species</key>
+		<string>Jellyfish Pokémon</string>
+		<key>height</key>
+		<string>2&apos;11&quot; (0.89m)</string>
+		<key>weight</key>
+		<string>100.3 lbs (45.5 kg)</string>
+		<key>icon</key>
+		<string>tentacoolIcon</string>
+		<key>image</key>
+		<string>tentacool</string>
+	</dict>
+	<key>tentacruel</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>073</string>
+		<key>name</key>
+		<string>Tentacruel</string>
+		<key>description</key>
+		<string>The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Clear Body, Liquid Ooze</string>
+		<key>species</key>
+		<string>Jellyfish Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>121.3 lbs (55.0 kg)</string>
+		<key>icon</key>
+		<string>tentacruelIcon</string>
+		<key>image</key>
+		<string>tentacruel</string>
+	</dict>
+	<key>geodude</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>074</string>
+		<key>name</key>
+		<string>Geodude</string>
+		<key>description</key>
+		<string>Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Ground</string>
+		<key>ability</key>
+		<string>Rock Head, Sturdy</string>
+		<key>species</key>
+		<string>Rock Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>44.1 lbs (20.0 kg)</string>
+		<key>icon</key>
+		<string>geodudeIcon</string>
+		<key>image</key>
+		<string>geodude</string>
+	</dict>
+	<key>graveler</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>075</string>
+		<key>name</key>
+		<string>Graveler</string>
+		<key>description</key>
+		<string>With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Ground</string>
+		<key>ability</key>
+		<string>Rock Head, Sturdy</string>
+		<key>species</key>
+		<string>Rock Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>231.5 lbs (105.0 kg)</string>
+		<key>icon</key>
+		<string>gravelerIcon</string>
+		<key>image</key>
+		<string>graveler</string>
+	</dict>
+	<key>golem</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>076</string>
+		<key>name</key>
+		<string>Golem</string>
+		<key>description</key>
+		<string>It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Ground</string>
+		<key>ability</key>
+		<string>Rock Head, Sturdy</string>
+		<key>species</key>
+		<string>Megaton Pokémon</string>
+		<key>height</key>
+		<string>4&apos;7&quot; (1.40m)</string>
+		<key>weight</key>
+		<string>661.4 lbs (300.0 kg)</string>
+		<key>icon</key>
+		<string>golemIcon</string>
+		<key>image</key>
+		<string>golem</string>
+	</dict>
+	<key>ponyta</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>077</string>
+		<key>name</key>
+		<string>Ponyta</string>
+		<key>description</key>
+		<string>As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire</string>
+		<key>species</key>
+		<string>Fire Horse Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>ponytaIcon</string>
+		<key>image</key>
+		<string>ponyta</string>
+	</dict>
+	<key>rapidash</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>078</string>
+		<key>name</key>
+		<string>Rapidash</string>
+		<key>description</key>
+		<string>Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire, Run Away</string>
+		<key>species</key>
+		<string>Fire Horse Pokémon</string>
+		<key>height</key>
+		<string>5&apos;7&quot; (1.70m)</string>
+		<key>weight</key>
+		<string>209.4 lbs (95.0 kg)</string>
+		<key>icon</key>
+		<string>rapidashIcon</string>
+		<key>image</key>
+		<string>rapidash</string>
+	</dict>
+	<key>slowpoke</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>079</string>
+		<key>name</key>
+		<string>Slowpoke</string>
+		<key>description</key>
+		<string>It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Psychic</string>
+		<key>ability</key>
+		<string>Oblivious, Own Tempo</string>
+		<key>species</key>
+		<string>Dopey Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>79.4 lbs (36.0 kg)</string>
+		<key>icon</key>
+		<string>slowpokeIcon</string>
+		<key>image</key>
+		<string>slowpoke</string>
+	</dict>
+	<key>slowbro</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>080</string>
+		<key>name</key>
+		<string>Slowbro</string>
+		<key>description</key>
+		<string>An attached Shellder won’t let go because of the tasty flavor that oozes out of its tail.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Psychic</string>
+		<key>ability</key>
+		<string>Oblivious, Own Tempo</string>
+		<key>species</key>
+		<string>Hermit Crab Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>173.1 lbs (78.5 kg)</string>
+		<key>icon</key>
+		<string>slowbroIcon</string>
+		<key>image</key>
+		<string>slowbro</string>
+	</dict>
+	<key>magnemite</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>081</string>
+		<key>name</key>
+		<string>Magnemite</string>
+		<key>description</key>
+		<string>The units at the sides of its body generate antigravity energy to keep it aloft in the air.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string>Steel</string>
+		<key>ability</key>
+		<string>Magnet Pull, Sturdy</string>
+		<key>species</key>
+		<string>Magnet Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>13.2 lbs (6.0 kg)</string>
+		<key>icon</key>
+		<string>magnemiteIcon</string>
+		<key>image</key>
+		<string>magnemite</string>
+	</dict>
+	<key>magneton</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>082</string>
+		<key>name</key>
+		<string>Magneton</string>
+		<key>description</key>
+		<string>A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string>Steel</string>
+		<key>ability</key>
+		<string>Magnet Pull, Sturdy</string>
+		<key>species</key>
+		<string>Magnet Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>132.3 lbs (60.0 kg)</string>
+		<key>icon</key>
+		<string>magnetonIcon</string>
+		<key>image</key>
+		<string>magneton</string>
+	</dict>
+	<key>farfetchd</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>083</string>
+		<key>name</key>
+		<string>Farfetch&apos;d</string>
+		<key>description</key>
+		<string>The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Inner Focus, Keen Eye</string>
+		<key>species</key>
+		<string>Wild Duck Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>33.1 lbs (15.0 kg)</string>
+		<key>icon</key>
+		<string>farfetchdIcon</string>
+		<key>image</key>
+		<string>farfetchd</string>
+	</dict>
+	<key>doduo</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>084</string>
+		<key>name</key>
+		<string>Doduo</string>
+		<key>description</key>
+		<string>A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Early Bird, Run Away</string>
+		<key>species</key>
+		<string>Twin Bird Pokémon</string>
+		<key>height</key>
+		<string>4&apos;7&quot; (1.40m)</string>
+		<key>weight</key>
+		<string>86.4 lbs (39.2 kg)</string>
+		<key>icon</key>
+		<string>doduoIcon</string>
+		<key>image</key>
+		<string>doduo</string>
+	</dict>
+	<key>dodrio</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>085</string>
+		<key>name</key>
+		<string>Dodrio</string>
+		<key>description</key>
+		<string>An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Early Bird, Run Away</string>
+		<key>species</key>
+		<string>Triple Brid Pokémon</string>
+		<key>height</key>
+		<string>5&apos;11&quot; (1.80m)</string>
+		<key>weight</key>
+		<string>187.8 lbs (85.2 kg)</string>
+		<key>icon</key>
+		<string>dodrioIcon</string>
+		<key>image</key>
+		<string>dodrio</string>
+	</dict>
+	<key>seel</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>086</string>
+		<key>name</key>
+		<string>Seel</string>
+		<key>description</key>
+		<string>A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Hydration, Thick Fat</string>
+		<key>species</key>
+		<string>Sea Lion Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>198.4 lbs (90.0 kg)</string>
+		<key>icon</key>
+		<string>seelIcon</string>
+		<key>image</key>
+		<string>seel</string>
+	</dict>
+	<key>dewgong</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>087</string>
+		<key>name</key>
+		<string>Dewgong</string>
+		<key>description</key>
+		<string>Its body is covered with a pure white fur. The colder the weather, the more active it becomes.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Ice</string>
+		<key>ability</key>
+		<string>Hydration, Thick Fat</string>
+		<key>species</key>
+		<string>Sea Lion Pokémon</string>
+		<key>height</key>
+		<string>5&apos;7&quot; (1.70m)</string>
+		<key>weight</key>
+		<string>264.6 lbs (120.0 kg)</string>
+		<key>icon</key>
+		<string>dewgongIcon</string>
+		<key>image</key>
+		<string>dewgong</string>
+	</dict>
+	<key>grimer</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>088</string>
+		<key>name</key>
+		<string>Grimer</string>
+		<key>description</key>
+		<string>Sludge exposed to X-rays from the moon transformed into Grimer. It loves feeding on filthy things.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Stench, Sticky Hold</string>
+		<key>species</key>
+		<string>Sludge Pokémon</string>
+		<key>height</key>
+		<string>2&apos;11&quot; (0.89m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>grimerIcon</string>
+		<key>image</key>
+		<string>grimer</string>
+	</dict>
+	<key>muk</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>089</string>
+		<key>name</key>
+		<string>Muk</string>
+		<key>description</key>
+		<string>They love to gather in smelly areas where sludge accumulates, making the stench around them worse.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Stench, Sticky Hold</string>
+		<key>species</key>
+		<string>Sludge Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>mukIcon</string>
+		<key>image</key>
+		<string>muk</string>
+	</dict>
+	<key>shellder</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>090</string>
+		<key>name</key>
+		<string>Shellder</string>
+		<key>description</key>
+		<string>Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Shell Armor, Skill Link</string>
+		<key>species</key>
+		<string>Bivalve Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>8.8 lbs (4.0 kg)</string>
+		<key>icon</key>
+		<string>shellderIcon</string>
+		<key>image</key>
+		<string>shellder</string>
+	</dict>
+	<key>cloyster</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>091</string>
+		<key>name</key>
+		<string>Cloyster</string>
+		<key>description</key>
+		<string>Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Ice</string>
+		<key>ability</key>
+		<string>Shell Armor, Skill Link</string>
+		<key>species</key>
+		<string>Bivalve Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>292.1 lbs (132.5 kg)</string>
+		<key>icon</key>
+		<string>cloysterIcon</string>
+		<key>image</key>
+		<string>cloyster</string>
+	</dict>
+	<key>gastly</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>092</string>
+		<key>name</key>
+		<string>Gastly</string>
+		<key>description</key>
+		<string>Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.</string>
+		<key>type</key>
+		<string>Ghost</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Levitate</string>
+		<key>species</key>
+		<string>Gas Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>0.2 lbs (0.1 kg)</string>
+		<key>icon</key>
+		<string>gastlyIcon</string>
+		<key>image</key>
+		<string>gastly</string>
+	</dict>
+	<key>haunter</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>093</string>
+		<key>name</key>
+		<string>Haunter</string>
+		<key>description</key>
+		<string>If you get the feeling of being watched in darkness when nobody is around, Haunter is there.</string>
+		<key>type</key>
+		<string>Ghost</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Levitate</string>
+		<key>species</key>
+		<string>Gas Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>0.2 lbs (0.1 kg)</string>
+		<key>icon</key>
+		<string>haunterIcon</string>
+		<key>image</key>
+		<string>haunter</string>
+	</dict>
+	<key>gengar</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>094</string>
+		<key>name</key>
+		<string>Gengar</string>
+		<key>description</key>
+		<string>It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.</string>
+		<key>type</key>
+		<string>Ghost</string>
+		<key>type2</key>
+		<string>Poison</string>
+		<key>ability</key>
+		<string>Levitate</string>
+		<key>species</key>
+		<string>Shadow Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>89.3 lbs (40.5 kg)</string>
+		<key>icon</key>
+		<string>gengarIcon</string>
+		<key>image</key>
+		<string>gengar</string>
+	</dict>
+	<key>onix</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>095</string>
+		<key>name</key>
+		<string>Onix</string>
+		<key>description</key>
+		<string>Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Ground</string>
+		<key>ability</key>
+		<string>Rock Head, Sturdy</string>
+		<key>species</key>
+		<string>Rock Snake Pokémon</string>
+		<key>height</key>
+		<string>28&apos;10&quot; (8.79m)</string>
+		<key>weight</key>
+		<string>463 lbs (210.0 kg)</string>
+		<key>icon</key>
+		<string>onixIcon</string>
+		<key>image</key>
+		<string>onix</string>
+	</dict>
+	<key>drowzee</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>096</string>
+		<key>name</key>
+		<string>Drowzee</string>
+		<key>description</key>
+		<string>Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Forewarn, Insomnia</string>
+		<key>species</key>
+		<string>Hypnosis Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>71.4 lbs (32.4 kg)</string>
+		<key>icon</key>
+		<string>drowzeeIcon</string>
+		<key>image</key>
+		<string>drowzee</string>
+	</dict>
+	<key>hypno</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>097</string>
+		<key>name</key>
+		<string>Hypno</string>
+		<key>description</key>
+		<string>It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Forewarn, Insomnia</string>
+		<key>species</key>
+		<string>Hypnosis Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>166.7 lbs (75.6 kg)</string>
+		<key>icon</key>
+		<string>hypnoIcon</string>
+		<key>image</key>
+		<string>hypno</string>
+	</dict>
+	<key>krabby</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>098</string>
+		<key>name</key>
+		<string>Krabby</string>
+		<key>description</key>
+		<string>It can be found near the sea. The large pincers grow back if they are torn out of their sockets.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Hyper Cutter, Shell Armor</string>
+		<key>species</key>
+		<string>River Crab Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>14.3 lbs (6.5 kg)</string>
+		<key>icon</key>
+		<string>krabbyIcon</string>
+		<key>image</key>
+		<string>krabby</string>
+	</dict>
+	<key>kingler</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>099</string>
+		<key>name</key>
+		<string>Kingler</string>
+		<key>description</key>
+		<string>Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Hyper Cutter, Shell Armor</string>
+		<key>species</key>
+		<string>Pincer Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>132.2 lbs (60.0 kg)</string>
+		<key>icon</key>
+		<string>kinglerIcon</string>
+		<key>image</key>
+		<string>kingler</string>
+	</dict>
+	<key>voltorb</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>100</string>
+		<key>name</key>
+		<string>Voltorb</string>
+		<key>description</key>
+		<string>It was discovered when Poké Balls were introduced. It is said that there is some connection.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Soundproof, Static</string>
+		<key>species</key>
+		<string>Ball Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>22.9 lbs (10.4 kg)</string>
+		<key>icon</key>
+		<string>voltorbIcon</string>
+		<key>image</key>
+		<string>voltorb</string>
+	</dict>
+	<key>electrode</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>101</string>
+		<key>name</key>
+		<string>Electrode</string>
+		<key>description</key>
+		<string>It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Soundproof, Static</string>
+		<key>species</key>
+		<string>Ball Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>146.5 lbs (66.6 kg)</string>
+		<key>icon</key>
+		<string>electrodeIcon</string>
+		<key>image</key>
+		<string>electrode</string>
+	</dict>
+	<key>exeggcute</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>102</string>
+		<key>name</key>
+		<string>Exeggcute</string>
+		<key>description</key>
+		<string>Its six eggs converse using telepathy. They can quickly gather if they become separated.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Psychic</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Egg Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>5.5 lbs (25 kg)</string>
+		<key>icon</key>
+		<string>exeggcuteIcon</string>
+		<key>image</key>
+		<string>exeggcute</string>
+	</dict>
+	<key>exeggutor</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>103</string>
+		<key>name</key>
+		<string>Exeggutor</string>
+		<key>description</key>
+		<string>Its three heads think independently. However, they are friendly and never appear to squabble.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string>Psychic</string>
+		<key>ability</key>
+		<string>Chlorophyll</string>
+		<key>species</key>
+		<string>Coconut Pokémon</string>
+		<key>height</key>
+		<string>6&apos;7&quot; (2.01m)</string>
+		<key>weight</key>
+		<string>264.6 lbs (120.0 kg)</string>
+		<key>icon</key>
+		<string>exeggutorIcon</string>
+		<key>image</key>
+		<string>exeggutor</string>
+	</dict>
+	<key>cubone</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>104</string>
+		<key>name</key>
+		<string>Cubone</string>
+		<key>description</key>
+		<string>It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Lightning Rod, Rock Head</string>
+		<key>species</key>
+		<string>Lonely Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>14.3 lbs (6.5 kg)</string>
+		<key>icon</key>
+		<string>cuboneIcon</string>
+		<key>image</key>
+		<string>cubone</string>
+	</dict>
+	<key>marowak</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>105</string>
+		<key>name</key>
+		<string>Marowak</string>
+		<key>description</key>
+		<string>It is small and was originally very weak. Its temperament turned ferocious when it began using bones.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Lightning Rod, Rock Head</string>
+		<key>species</key>
+		<string>Bone Keeper Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (.99m)</string>
+		<key>weight</key>
+		<string>99.2 lbs (45.0 kg)</string>
+		<key>icon</key>
+		<string>marowakIcon</string>
+		<key>image</key>
+		<string>marowak</string>
+	</dict>
+	<key>hitmonlee</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>106</string>
+		<key>name</key>
+		<string>Hitmonlee</string>
+		<key>description</key>
+		<string>The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Limber, Reckless</string>
+		<key>species</key>
+		<string>Kicking Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>109.8 lbs (49.8 kg)</string>
+		<key>icon</key>
+		<string>hitmonleeIcon</string>
+		<key>image</key>
+		<string>hitmonlee</string>
+	</dict>
+	<key>hitmonchan</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>107</string>
+		<key>name</key>
+		<string>Hitmonchan</string>
+		<key>description</key>
+		<string>The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.</string>
+		<key>type</key>
+		<string>Fighting</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Iron Fist, Keen Eye</string>
+		<key>species</key>
+		<string>Punching Pokémon</string>
+		<key>height</key>
+		<string>4&apos;7&quot; (1.40m)</string>
+		<key>weight</key>
+		<string>110.7 lbs (50.2 kg)</string>
+		<key>icon</key>
+		<string>hitmonchanIcon</string>
+		<key>image</key>
+		<string>hitmonchan</string>
+	</dict>
+	<key>lickitung</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>108</string>
+		<key>name</key>
+		<string>Lickitung</string>
+		<key>description</key>
+		<string>Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Oblivious, Own Tempo</string>
+		<key>species</key>
+		<string>Licking Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>144.4 lbs (65.5 kg)</string>
+		<key>icon</key>
+		<string>lickitungIcon</string>
+		<key>image</key>
+		<string>lickitung</string>
+	</dict>
+	<key>koffing</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>109</string>
+		<key>name</key>
+		<string>Koffing</string>
+		<key>description</key>
+		<string>Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Levitate</string>
+		<key>species</key>
+		<string>Poison Gas Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>2.2 lbs (1.0 kg)</string>
+		<key>icon</key>
+		<string>koffingIcon</string>
+		<key>image</key>
+		<string>koffing</string>
+	</dict>
+	<key>weezing</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>110</string>
+		<key>name</key>
+		<string>Weezing</string>
+		<key>description</key>
+		<string>If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.</string>
+		<key>type</key>
+		<string>Poison</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Levitate</string>
+		<key>species</key>
+		<string>Poison Gas Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>20.9 lbs (9.5 kg)</string>
+		<key>icon</key>
+		<string>weezingIcon</string>
+		<key>image</key>
+		<string>weezing</string>
+	</dict>
+	<key>rhyhorn</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>111</string>
+		<key>name</key>
+		<string>Rhyhorn</string>
+		<key>description</key>
+		<string>Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string>Rock</string>
+		<key>ability</key>
+		<string>Lightning Rod, Rock Head</string>
+		<key>species</key>
+		<string>Spikes Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>253.5 lbs (115.0 kg)</string>
+		<key>icon</key>
+		<string>rhyhornIcon</string>
+		<key>image</key>
+		<string>rhyhorn</string>
+	</dict>
+	<key>rhydon</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>112</string>
+		<key>name</key>
+		<string>Rhydon</string>
+		<key>description</key>
+		<string>Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.</string>
+		<key>type</key>
+		<string>Ground</string>
+		<key>type2</key>
+		<string>Rock</string>
+		<key>ability</key>
+		<string>Lightning Rod, Rock Head</string>
+		<key>species</key>
+		<string>Drill Pokémon</string>
+		<key>height</key>
+		<string>6&apos;3&quot; (1.91m)</string>
+		<key>weight</key>
+		<string>264.6 lbs (120.0 kg)</string>
+		<key>icon</key>
+		<string>rhydonIcon</string>
+		<key>image</key>
+		<string>rhydon</string>
+	</dict>
+	<key>chansey</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>113</string>
+		<key>name</key>
+		<string>Chansey</string>
+		<key>description</key>
+		<string>It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Nature Care, Serene Grace</string>
+		<key>species</key>
+		<string>Egg Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>76.3 lbs (34.6 kg)</string>
+		<key>icon</key>
+		<string>chanseyIcon</string>
+		<key>image</key>
+		<string>chansey</string>
+	</dict>
+	<key>tangela</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>114</string>
+		<key>name</key>
+		<string>Tangela</string>
+		<key>description</key>
+		<string>Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.</string>
+		<key>type</key>
+		<string>Grass</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Chlorophyll, Leaf Guard</string>
+		<key>species</key>
+		<string>Vine Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>77.2 lbs (35.0 kg)</string>
+		<key>icon</key>
+		<string>tangelaIcon</string>
+		<key>image</key>
+		<string>tangela</string>
+	</dict>
+	<key>kangaskhan</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>115</string>
+		<key>name</key>
+		<string>Kangaskhan</string>
+		<key>description</key>
+		<string>It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Early Bird, Scrappy</string>
+		<key>species</key>
+		<string>Parent Pokémon</string>
+		<key>height</key>
+		<string>7&apos;3&quot; (2.21m)</string>
+		<key>weight</key>
+		<string>176.4 lbs (80.0 kg)</string>
+		<key>icon</key>
+		<string>kangaskhanIcon</string>
+		<key>image</key>
+		<string>kangaskhan</string>
+	</dict>
+	<key>horsea</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>116</string>
+		<key>name</key>
+		<string>Horsea</string>
+		<key>description</key>
+		<string>Known to shoot down flying bugs with precision blasts of ink from the surface of the water.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Sniper, Swift Swim</string>
+		<key>species</key>
+		<string>Dragon Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>17.6 lbs (8.0 kg)</string>
+		<key>icon</key>
+		<string>horseaIcon</string>
+		<key>image</key>
+		<string>horsea</string>
+	</dict>
+	<key>seadra</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>117</string>
+		<key>name</key>
+		<string>Seadra</string>
+		<key>description</key>
+		<string>Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Poison Point, Sniper</string>
+		<key>species</key>
+		<string>Dragon Pokémon</string>
+		<key>height</key>
+		<string>3&apos;11&quot; (1.19m)</string>
+		<key>weight</key>
+		<string>55.1 lbs (25.0 kg)</string>
+		<key>icon</key>
+		<string>seadraIcon</string>
+		<key>image</key>
+		<string>seadra</string>
+	</dict>
+	<key>goldeen</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>118</string>
+		<key>name</key>
+		<string>Goldeen</string>
+		<key>description</key>
+		<string>It swims at a steady 5 knots. If it senses danger, it will strike back with its sharp horn.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Swift Swim, Water Veil</string>
+		<key>species</key>
+		<string>Goldfish Pokémon</string>
+		<key>height</key>
+		<string>2&apos;0&quot; (0.61m)</string>
+		<key>weight</key>
+		<string>33.1 lbs (15.0 kg)</string>
+		<key>icon</key>
+		<string>goldeenIcon</string>
+		<key>image</key>
+		<string>goldeen</string>
+	</dict>
+	<key>seaking</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>119</string>
+		<key>name</key>
+		<string>Seaking</string>
+		<key>description</key>
+		<string>In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Swift Swim, Water Veil</string>
+		<key>species</key>
+		<string>Goldfisk Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>86 lbs (39.0 kg)</string>
+		<key>icon</key>
+		<string>seakingIcon</string>
+		<key>image</key>
+		<string>seaking</string>
+	</dict>
+	<key>staryu</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>120</string>
+		<key>name</key>
+		<string>Staryu</string>
+		<key>description</key>
+		<string>Even if its body is torn, it can regenerate as long as the glowing central core remains intact.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Illuminate, Natural Cure</string>
+		<key>species</key>
+		<string>Star Shape Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>76.1 lbs (34.5 kg)</string>
+		<key>icon</key>
+		<string>staryuIcon</string>
+		<key>image</key>
+		<string>staryu</string>
+	</dict>
+	<key>starmie</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>121</string>
+		<key>name</key>
+		<string>Starmie</string>
+		<key>description</key>
+		<string>Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Psychic</string>
+		<key>ability</key>
+		<string>Illuminate, Natural Cure</string>
+		<key>species</key>
+		<string>Mysterious Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>176.4 lbs (80.0 kg)</string>
+		<key>icon</key>
+		<string>starmieIcon</string>
+		<key>image</key>
+		<string>starmie</string>
+	</dict>
+	<key>mrmime</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>122</string>
+		<key>name</key>
+		<string>Mr. Mime</string>
+		<key>description</key>
+		<string>Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string>Fairy</string>
+		<key>ability</key>
+		<string>Filter, Soundproof</string>
+		<key>species</key>
+		<string>Barrier Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>120.2 lbs (54.5 kg)</string>
+		<key>icon</key>
+		<string>mrmimeIcon</string>
+		<key>image</key>
+		<string>mrmime</string>
+	</dict>
+	<key>scyther</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>123</string>
+		<key>name</key>
+		<string>Scyther</string>
+		<key>description</key>
+		<string>It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Swarm, Technician</string>
+		<key>species</key>
+		<string>Mantis Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>123.5 lbs (56.0 kg)</string>
+		<key>icon</key>
+		<string>scytherIcon</string>
+		<key>image</key>
+		<string>scyther</string>
+	</dict>
+	<key>jynx</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>124</string>
+		<key>name</key>
+		<string>Jynx</string>
+		<key>description</key>
+		<string>It wiggles its hips as it walks. It can cause people to dance in unison with it.</string>
+		<key>type</key>
+		<string>Ice</string>
+		<key>type2</key>
+		<string>Psychic</string>
+		<key>ability</key>
+		<string>Forewarn, Oblivious</string>
+		<key>species</key>
+		<string>Human Shape Pokémon</string>
+		<key>height</key>
+		<string>4&apos;7&quot; (1.40m)</string>
+		<key>weight</key>
+		<string>89.5 lbs (40.6 kg)</string>
+		<key>icon</key>
+		<string>jynxIcon</string>
+		<key>image</key>
+		<string>jynx</string>
+	</dict>
+	<key>electabuzz</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>125</string>
+		<key>name</key>
+		<string>Electabuzz</string>
+		<key>description</key>
+		<string>Electricity runs across the surface of its body. In darkness, its entire body glows a whitish blue.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Static</string>
+		<key>species</key>
+		<string>Electric Pokémon</string>
+		<key>height</key>
+		<string>3&apos;7&quot; (1.09m)</string>
+		<key>weight</key>
+		<string>66.1 lbs (30.0 kg)</string>
+		<key>icon</key>
+		<string>electabuzzIcon</string>
+		<key>image</key>
+		<string>electabuzz</string>
+	</dict>
+	<key>magmar</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>126</string>
+		<key>name</key>
+		<string>Magmar</string>
+		<key>description</key>
+		<string>Found near the mouth of a volcano. This fire-breather’s body temperature is nearly 2,200 degrees Fahrenheit.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flame Body</string>
+		<key>species</key>
+		<string>Spitfire Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>98.1 lbs (44.5 kg)</string>
+		<key>icon</key>
+		<string>magmarIcon</string>
+		<key>image</key>
+		<string>magmar</string>
+	</dict>
+	<key>pinsir</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>127</string>
+		<key>name</key>
+		<string>Pinsir</string>
+		<key>description</key>
+		<string>It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.</string>
+		<key>type</key>
+		<string>Bug</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Hyper Cutter, Mold Breaker</string>
+		<key>species</key>
+		<string>Stag Beetle Pokémon</string>
+		<key>height</key>
+		<string>4&apos;11&quot; (1.50m)</string>
+		<key>weight</key>
+		<string>121.3 lbs (55.0 kg)</string>
+		<key>icon</key>
+		<string>pinsirIcon</string>
+		<key>image</key>
+		<string>pinsir</string>
+	</dict>
+	<key>tauros</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Tauros</string>
+		<key>description</key>
+		<string>After heightening its will to fight by whipping itself with its three tails, it charges at full speed.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Anger Point, Intimidate</string>
+		<key>species</key>
+		<string>Wild Bull Pokémon</string>
+		<key>height</key>
+		<string>4&apos;7&quot; (1.40m)</string>
+		<key>weight</key>
+		<string>194.9 lbs (88.4 kg)</string>
+		<key>icon</key>
+		<string>taurosIcon</string>
+		<key>image</key>
+		<string>tauros</string>
+	</dict>
+	<key>magikarp</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>129</string>
+		<key>name</key>
+		<string>Magikarp</string>
+		<key>description</key>
+		<string>It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Swift Swim</string>
+		<key>species</key>
+		<string>Fish Pokémon</string>
+		<key>height</key>
+		<string>2&apos;11&quot; (0.89m)</string>
+		<key>weight</key>
+		<string>22 lbs (10.0 kg)</string>
+		<key>icon</key>
+		<string>magikarpIcon</string>
+		<key>image</key>
+		<string>magikarp</string>
+	</dict>
+	<key>gyarados</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>130</string>
+		<key>name</key>
+		<string>Gyarados</string>
+		<key>description</key>
+		<string>In ancient literature, there is a record of a Gyarados that razed a village when violence flared.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Intimidate</string>
+		<key>species</key>
+		<string>Atrocious Pokémon</string>
+		<key>height</key>
+		<string>21&apos;4&quot; (6.50m)</string>
+		<key>weight</key>
+		<string>518.1 lbs (235.0 kg)</string>
+		<key>icon</key>
+		<string>gyaradosIcon</string>
+		<key>image</key>
+		<string>gyarados</string>
+	</dict>
+	<key>lapras</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>131</string>
+		<key>name</key>
+		<string>Lapras</string>
+		<key>description</key>
+		<string>They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.</string>
+		<key>type</key>
+		<string>Water</string>
+		<key>type2</key>
+		<string>Ice</string>
+		<key>ability</key>
+		<string>Shell Armor, Water Absorb</string>
+		<key>species</key>
+		<string>Transport Pokémon</string>
+		<key>height</key>
+		<string>8&apos;2&quot; (2.49m)</string>
+		<key>weight</key>
+		<string>485 lbs (220.0 kg)</string>
+		<key>icon</key>
+		<string>laprasIcon</string>
+		<key>image</key>
+		<string>lapras</string>
+	</dict>
+	<key>ditto</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>132</string>
+		<key>name</key>
+		<string>Ditto</string>
+		<key>description</key>
+		<string>It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Limber</string>
+		<key>species</key>
+		<string>Transform Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>8.8 lbs (4.0 kg)</string>
+		<key>icon</key>
+		<string>dittoIcon</string>
+		<key>image</key>
+		<string>ditto</string>
+	</dict>
+	<key>eevee</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>133</string>
+		<key>name</key>
+		<string>Eevee</string>
+		<key>description</key>
+		<string>A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Adaptability, Run Away</string>
+		<key>species</key>
+		<string>Evolution Pokémon</string>
+		<key>height</key>
+		<string>1&apos;0&quot; (0.30m)</string>
+		<key>weight</key>
+		<string>14.3 lbs (6.5 kg)</string>
+		<key>icon</key>
+		<string>eeveeIcon</string>
+		<key>image</key>
+		<string>eevee</string>
+	</dict>
+	<key>vaporeon</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>134</string>
+		<key>name</key>
+		<string>Vaporeon</string>
+		<key>description</key>
+		<string>It prefers beautiful shores. With cells similar to water molecules, it could melt in water.</string>
+		<key>type</key>
+		<string>WAter</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Water Absorb</string>
+		<key>species</key>
+		<string>Bubble Jet Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>63.9 lbs (29.0 kg)</string>
+		<key>icon</key>
+		<string>vaporeonIcon</string>
+		<key>image</key>
+		<string>vaporeon</string>
+	</dict>
+	<key>jolteon</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>135</string>
+		<key>name</key>
+		<string>Jolteon</string>
+		<key>description</key>
+		<string>Every hair on its body starts to stand sharply on end if it becomes charged with electricity.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Volt Absorb</string>
+		<key>species</key>
+		<string>Lightning Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>54 lbs (24.5 kg)</string>
+		<key>icon</key>
+		<string>jolteonIcon</string>
+		<key>image</key>
+		<string>jolteon</string>
+	</dict>
+	<key>flareon</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>136</string>
+		<key>name</key>
+		<string>Flareon</string>
+		<key>description</key>
+		<string>It has a flame sac in its body. Its body temperature tops 1,650 degrees Fahrenheit before battle.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Flash Fire</string>
+		<key>species</key>
+		<string>Flame Pokémon</string>
+		<key>height</key>
+		<string>2&apos;11&quot; (0.89m)</string>
+		<key>weight</key>
+		<string>55.1 lbs (25.0 kg)</string>
+		<key>icon</key>
+		<string>flareonIcon</string>
+		<key>image</key>
+		<string>flareon</string>
+	</dict>
+	<key>porygon</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>137</string>
+		<key>name</key>
+		<string>Porygon</string>
+		<key>description</key>
+		<string>A man-made Pokémon that came about as a result of research. It is programmed with only basic motions.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Download, Trace</string>
+		<key>species</key>
+		<string>Virtual Pokémon</string>
+		<key>height</key>
+		<string>2&apos;7&quot; (0.79m)</string>
+		<key>weight</key>
+		<string>80.5 lbs (36.5 kg)</string>
+		<key>icon</key>
+		<string>porygonIcon</string>
+		<key>image</key>
+		<string>porygon</string>
+	</dict>
+	<key>omanyte</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>138</string>
+		<key>name</key>
+		<string>Omanyte</string>
+		<key>description</key>
+		<string>A prehistoric Pokémon that lived in the primordial sea, it swims by twisting its 10 tentacles about.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Water</string>
+		<key>ability</key>
+		<string>Shell Armor, Swift Swim</string>
+		<key>species</key>
+		<string>Spiral Pokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>16.5 lbs (7.5 kg)</string>
+		<key>icon</key>
+		<string>omanyteIcon</string>
+		<key>image</key>
+		<string>omanyte</string>
+	</dict>
+	<key>omastar</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>139</string>
+		<key>name</key>
+		<string>Omastar</string>
+		<key>description</key>
+		<string>Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Water</string>
+		<key>ability</key>
+		<string>Shell Armor, Swift Swim</string>
+		<key>species</key>
+		<string>Spiral Pokémon</string>
+		<key>height</key>
+		<string>3&apos;3&quot; (0.99m)</string>
+		<key>weight</key>
+		<string>77.2 lbs (35.0 kg)</string>
+		<key>icon</key>
+		<string>omastarIcon</string>
+		<key>image</key>
+		<string>omastar</string>
+	</dict>
+	<key>kabuto</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>140</string>
+		<key>name</key>
+		<string>Kabuto</string>
+		<key>description</key>
+		<string>It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Water</string>
+		<key>ability</key>
+		<string>Battle Armor, Swift Swim</string>
+		<key>species</key>
+		<string>Shellfish Pokémon</string>
+		<key>height</key>
+		<string>1&apos;8&quot; (0.51m)</string>
+		<key>weight</key>
+		<string>25.4 lbs (11.5 kg)</string>
+		<key>icon</key>
+		<string>kabutoIcon</string>
+		<key>image</key>
+		<string>kabuto</string>
+	</dict>
+	<key>kabutops</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>141</string>
+		<key>name</key>
+		<string>Kabutops</string>
+		<key>description</key>
+		<string>In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Water</string>
+		<key>ability</key>
+		<string>Battle Armor, Swift Swim</string>
+		<key>species</key>
+		<string>Shellfish Pokémon</string>
+		<key>height</key>
+		<string>4&apos;3&quot; (1.30m)</string>
+		<key>weight</key>
+		<string>89.3 lbs (40.5 kg)</string>
+		<key>icon</key>
+		<string>kabutopsIcon</string>
+		<key>image</key>
+		<string>kabutops</string>
+	</dict>
+	<key>aerodactyl</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>142</string>
+		<key>name</key>
+		<string>Aerodactyl</string>
+		<key>description</key>
+		<string>It was regenerated from a dinosaur’s genetic matter that was found in amber. It flies with high-pitched cries.</string>
+		<key>type</key>
+		<string>Rock</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Pressure, Rock Head</string>
+		<key>species</key>
+		<string>Fossil Pokémon</string>
+		<key>height</key>
+		<string>5&apos;11&quot; (1.80m)</string>
+		<key>weight</key>
+		<string>130.1 lbs (59.0 kg)</string>
+		<key>icon</key>
+		<string>aerodactylIcon</string>
+		<key>image</key>
+		<string>aerodactyl</string>
+	</dict>
+	<key>snorlax</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>143</string>
+		<key>name</key>
+		<string>Snorlax</string>
+		<key>description</key>
+		<string>It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.</string>
+		<key>type</key>
+		<string>Normal</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Immunity, Thick Fat</string>
+		<key>species</key>
+		<string>Sleeping Pokémon</string>
+		<key>height</key>
+		<string>6&apos;11&quot; (2.11m)</string>
+		<key>weight</key>
+		<string>1014.1 lbs (460.0 kg)</string>
+		<key>icon</key>
+		<string>snorlaxIcon</string>
+		<key>image</key>
+		<string>snorlax</string>
+	</dict>
+	<key>articuno</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>144</string>
+		<key>name</key>
+		<string>Articuno</string>
+		<key>description</key>
+		<string>A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.</string>
+		<key>type</key>
+		<string>Ice</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Pressure</string>
+		<key>species</key>
+		<string>Freeze Pokémon</string>
+		<key>height</key>
+		<string>5&apos;7&quot; (1.70m)</string>
+		<key>weight</key>
+		<string>122.1 lbs (55.4 kg)</string>
+		<key>icon</key>
+		<string>articunoIcon</string>
+		<key>image</key>
+		<string>articuno</string>
+	</dict>
+	<key>zapdos</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>145</string>
+		<key>name</key>
+		<string>Zapdos</string>
+		<key>description</key>
+		<string>A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.</string>
+		<key>type</key>
+		<string>Electric</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Pressure</string>
+		<key>species</key>
+		<string>Electric Pokémon</string>
+		<key>height</key>
+		<string>5&apos;3&quot; (1.60m)</string>
+		<key>weight</key>
+		<string>116 lbs (52.6 kg)</string>
+		<key>icon</key>
+		<string>zapdosIcon</string>
+		<key>image</key>
+		<string>zapdos</string>
+	</dict>
+	<key>moltres</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>146</string>
+		<key>name</key>
+		<string>Moltres</string>
+		<key>description</key>
+		<string>It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames.</string>
+		<key>type</key>
+		<string>Fire</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Pressure</string>
+		<key>species</key>
+		<string>Flame Pokémon</string>
+		<key>height</key>
+		<string>6&apos;7&quot; (2.01m)</string>
+		<key>weight</key>
+		<string>132.3 lbs (60.0 kg)</string>
+		<key>icon</key>
+		<string>moltresIcon</string>
+		<key>image</key>
+		<string>moltres</string>
+	</dict>
+	<key>dratini</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>147</string>
+		<key>name</key>
+		<string>Dratini</string>
+		<key>description</key>
+		<string>It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.</string>
+		<key>type</key>
+		<string>Dragon</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Shed Skin</string>
+		<key>species</key>
+		<string>Dragon Pokémon</string>
+		<key>height</key>
+		<string>5&apos;11&quot; (1.80m)</string>
+		<key>weight</key>
+		<string>7.3 lbs (3.3 kg)</string>
+		<key>icon</key>
+		<string>dratiniIcon</string>
+		<key>image</key>
+		<string>dratini</string>
+	</dict>
+	<key>dragonair</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>148</string>
+		<key>name</key>
+		<string>Dragonair</string>
+		<key>description</key>
+		<string>Its crystalline orbs appear to give this Pokémon the power to freely control the weather.</string>
+		<key>type</key>
+		<string>Dragon</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Shed Skin</string>
+		<key>species</key>
+		<string>Dragon Pokémon</string>
+		<key>height</key>
+		<string>13&apos;1&quot; (3.99m)</string>
+		<key>weight</key>
+		<string>36.4 lbs (16.5 kg)</string>
+		<key>icon</key>
+		<string>dragonairIcon</string>
+		<key>image</key>
+		<string>dragonair</string>
+	</dict>
+	<key>dragonite</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>149</string>
+		<key>name</key>
+		<string>Dragonite</string>
+		<key>description</key>
+		<string>It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.</string>
+		<key>type</key>
+		<string>Dragon</string>
+		<key>type2</key>
+		<string>Flying</string>
+		<key>ability</key>
+		<string>Inner Focus</string>
+		<key>species</key>
+		<string>Dragon Pokémon</string>
+		<key>height</key>
+		<string>7&apos;3&quot; (2.21m)</string>
+		<key>weight</key>
+		<string>463 lbs (210.0 kg)</string>
+		<key>icon</key>
+		<string>dragoniteIcon</string>
+		<key>image</key>
+		<string>dragonite</string>
+	</dict>
+	<key>mewtwo</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>150</string>
+		<key>name</key>
+		<string>Mewtwo</string>
+		<key>description</key>
+		<string>It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Pressure</string>
+		<key>species</key>
+		<string>Genetic Pokémon</string>
+		<key>height</key>
+		<string>6&apos;7&quot; (2.01m)</string>
+		<key>weight</key>
+		<string>269 lbs (122 kg)</string>
+		<key>icon</key>
+		<string>mewtwoIcon</string>
+		<key>image</key>
+		<string>mewtwo</string>
+	</dict>
+	<key>mew</key>
+	<dict>
+		<key>pokedexno</key>
+		<string>151</string>
+		<key>name</key>
+		<string>Mew</string>
+		<key>description</key>
+		<string>Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.</string>
+		<key>type</key>
+		<string>Psychic</string>
+		<key>type2</key>
+		<string></string>
+		<key>ability</key>
+		<string>Synchronize</string>
+		<key>species</key>
+		<string>New SpeciesPokémon</string>
+		<key>height</key>
+		<string>1&apos;4&quot; (0.41m)</string>
+		<key>weight</key>
+		<string>8.8 lbs (4.0 kg)</string>
+		<key>icon</key>
+		<string>mewIcon</string>
+		<key>image</key>
+		<string>mew</string>
+	</dict>
+</dict>
+</plist>
